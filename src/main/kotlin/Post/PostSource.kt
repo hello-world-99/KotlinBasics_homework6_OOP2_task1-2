@@ -1,0 +1,4 @@
+package Post
+
+class PostSource {
+}
