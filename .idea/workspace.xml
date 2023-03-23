@@ -5,40 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70dce77e-df7f-4226-8561-36aa384f1849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Attachment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Comment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Copyright.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Donut/Donut.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Donut/Placeholder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Geo/Geo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Geo/Place.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Like.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Post.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/PostSource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Repost.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/View.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WallService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/AudioAttachment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/DocumentAttachment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/PhotoAttachment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/ProductAttachment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/VideoAttachment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Attachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Attachment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WallService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WallService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +70,62 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle test" />
+      <command value="gradle jacocoTestReport" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.homework6_OOP2_task1 [test]">
+    <configuration name="homework6_OOP2_task1 [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="homework6_OOP2_task1 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.homework6_OOP2_task1 [test]" />
+        <item itemvalue="Gradle.homework6_OOP2_task1 [jacocoTestReport]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,5 +136,26 @@
       <updated>1679465157920</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="newPost" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
