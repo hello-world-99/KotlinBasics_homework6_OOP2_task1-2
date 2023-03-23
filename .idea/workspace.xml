@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70dce77e-df7f-4226-8561-36aa384f1849" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
