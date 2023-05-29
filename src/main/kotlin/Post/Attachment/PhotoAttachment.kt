@@ -1,4 +1,4 @@
 package Post.Attachment
 
-open class PhotoAttachment(override val type: String="Photo") :Attachment {
+data class PhotoAttachment(override val type: String="Photo", val file: Photo) :Attachment {
 }

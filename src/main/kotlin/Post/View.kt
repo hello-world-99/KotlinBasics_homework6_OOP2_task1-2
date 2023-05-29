@@ -1,4 +1,6 @@
 package Post
 
-class View(count:Int) {
+data class View(
+    var count:Int
+) {
 }

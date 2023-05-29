@@ -1,4 +1,10 @@
 package Post
 
-class Comment (count:Int, can_post:Boolean, groups_can_post:Boolean, can_close:Boolean, can_open:Boolean) {
+data class Comment (
+    var count:Int,
+    val can_post:Boolean,
+    val groups_can_post:Boolean,
+    val can_close:Boolean,
+    val can_open:Boolean
+) {
 }

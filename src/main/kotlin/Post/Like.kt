@@ -1,4 +1,8 @@
 package Post
-
-class Like(count:Int, user_likes:Boolean, can_like:Boolean, can_publish:Boolean) {
+data class Like(
+    var count:Int,
+    var user_likes:Boolean,
+    var can_like:Boolean,
+    var can_publish:Boolean
+) {
 }

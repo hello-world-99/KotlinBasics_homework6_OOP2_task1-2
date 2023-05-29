@@ -1,4 +1,10 @@
 package Post.Donut
 
-class Donut(is_donut:Boolean, paid_duration:Int, placeholder:Placeholder, can_publish_free_copy:Boolean, edit_mode:String) {
+data class Donut(
+    val is_donut:Boolean,
+    val paid_duration:Int,
+    val placeholder:Placeholder,
+    val can_publish_free_copy:Boolean,
+    val edit_mode:String
+) {
 }

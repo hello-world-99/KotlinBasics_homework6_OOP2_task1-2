@@ -1,4 +1,4 @@
 package Post.Attachment
 
-open class AudioAttachment(override val type: String="Audio") :Attachment {
+data class AudioAttachment(override var type: String="Audio" , var file:Audio ) :Attachment {
 }

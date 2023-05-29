@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70dce77e-df7f-4226-8561-36aa384f1849" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Audio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/AudioAttachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/AudioAttachment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Document.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/DocumentAttachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/DocumentAttachment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Photo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/PhotoAttachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/PhotoAttachment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/ProductAttachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/ProductAttachment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/Video.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/VideoAttachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Attachment/VideoAttachment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Comment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Comment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Copyright.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Copyright.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Donut/Donut.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Donut/Donut.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Geo/Geo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Geo/Geo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Like.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Like.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Post.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Post.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/Repost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/Repost.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Post/View.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Post/View.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +64,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/lev.kim/IdeaProjects/homework6_OOP2_task1/src/main/kotlin"
+    "last_opened_file_path": "C:/Users/lev.kim/IdeaProjects/homework6_OOP2_task1/src/main/kotlin/Post"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lev.kim\IdeaProjects\homework6_OOP2_task1\src\main\kotlin\Post" />
       <recent name="C:\Users\lev.kim\IdeaProjects\homework6_OOP2_task1\src\main\kotlin" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -86,6 +102,7 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <configuration name="homework6_OOP2_task1 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -107,6 +124,7 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>

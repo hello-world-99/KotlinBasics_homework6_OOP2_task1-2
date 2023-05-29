@@ -1,4 +1,7 @@
 package Post
 
-class Repost(count:Int, user_reposted:Boolean) {
+data class Repost(
+    var count:Int,
+    val user_reposted:Boolean
+) {
 }

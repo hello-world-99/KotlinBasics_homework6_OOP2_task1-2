@@ -3,9 +3,7 @@ package Post
 import Post.*
 import Post.Attachment.Attachment
 import Post.Donut.Donut
-import Post.Donut.Placeholder
 import Post.Geo.Geo
-import Post.Geo.Place
 
 data class Post(
     val id:Int=0,
